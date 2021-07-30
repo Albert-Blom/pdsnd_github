@@ -4,7 +4,7 @@
 30/07/2021
 
 ### Project Title
-BikeShare Version Control
+Version Control
 
 ### Description
 Version control on Bikeshare project
