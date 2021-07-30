@@ -7,7 +7,7 @@ CITY_DATA = { 'chicago': 'chicago.csv',
               'washington': 'washington.csv' }
 
 def get_filters():
-    
+
     print('Hello! Let\'s explore some US bikeshare data!')
     # get user input for city (chicago, new york city, washington). HINT: Use a while loop to handle invalid inputs
 while True:
@@ -15,7 +15,7 @@ while True:
             x = int(input('For which city would you like to explore data? Please choose between Chicago, New York or Washington.'))
             break
     except:
-        print('Please make a valid selection by typing the city name exactly as stated')
+        print('Please make a valid selection and review spelling')
     finally:
         print('success!!!')
     # get user input for month (all, january, february, ... , june)
