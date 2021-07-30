@@ -14,6 +14,9 @@ Version control on Bikeshare project
 
 ### Files used
 bikeshare_2_ABlom.py
+chicago.csv
+new_york_city.csv
+washington.csv
 
 ### Credits
 Albert Blom
