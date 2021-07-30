@@ -13,4 +13,5 @@ Version control on Bikeshare project
 bikeshare_2_ABlom.py
 
 ### Credits
+Albert Blom
 https://github.com/udacity/pdsnd_github
